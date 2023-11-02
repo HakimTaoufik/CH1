@@ -1,4 +1,3 @@
-package CH1;
 public class Newton2 {
     public static void main(String[] args) {
         double a = 1 / 2.0, x, xold, eps;

@@ -1,4 +1,3 @@
-package CH1;
 public class Expo {
     public static int facto(int n) {
         int s = 1;
